@@ -3,7 +3,7 @@
 
 /* Calculator Box */
 .box {
-	background-color: #e5e7ea;
+	background-image: url(images/calculatorimage.jpg);
 	height: 300px;
 	width: 250px;
 	border-radius: 10px;
@@ -13,7 +13,7 @@
 }
 /* Display */
 .display {
-	background-color: #bfc4ce;
+	background-color: #000000;
 	width: 220px;
 	position: relative;
 	left: 15px;
@@ -27,7 +27,7 @@
 	height: 30px;
 	width: 210px;
 	color: black;
-	background-color: #bccd95;
+	background-color: #5778FF;
 	font-size: 21px;
 	text-align: right;
 }
